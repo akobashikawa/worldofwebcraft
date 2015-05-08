@@ -10,7 +10,7 @@ Allí, aparecen otros personajes que interactúan conmigo y me proponen una misi
 
 Las misiones que se me proponen corresponden al nivel de mis habilidades en ese momento. Así que si hay una que parezca imposible, no lo es, debe haber algún modo de completarla.
 
-En una conferencia de TED, xxx habla de como juegos como wow pueden ayudar a la gente a desarrollar el hábito de lograr objetivos y obtener satisfacción por ello.
+En una conferencia de TED, [Jane McGonigal: Gaming can make a better world](http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world), habla de como juegos como wow pueden ayudar a la gente a desarrollar el hábito de lograr objetivos y obtener satisfacción por ello.
 
 Lo que sucede en tu mente no queda en tu mente. Como dice un refrán: 'Tus pensamientos se vuelven acciones, tus acciones se vuelven hábitos, tus hábitos te definen'. Poco a poco, lo que ejercitas en un juego, se va reflejando en lo que haces en el mundo real.
 

@@ -18,6 +18,8 @@ Además, la mecánica del juego me parece muy interesante. Con millones de jugad
 
 ¿Qué tal si hubiera un ambiente de aprendizaje de artes web? Uno donde los participantes pudieran elegir misiones de acuerdo a su nivel, y que al realizarlas les abriera las puertas a nuevas posibilidades.
 
-Podría ser la puerta de entrada para aprender a programar e ir avanzando en conocimientos y aptitudes. Poco a poco, uno llegar a ser guía o enseñar a otras personas. También se podría usar para definir y desarrollar proyectos profesionales, contratar personas, hacer crowdsourcing, etc.
+Podría ser la puerta de entrada para aprender a programar e ir avanzando en conocimientos y aptitudes. Poco a poco, uno podría llegar a ser guía, o enseñar a otras personas. Un grupo podría auto organizarse para la conquista de un proyecto que les interese.
+
+También podría ser un modo de definir y desarrollar proyectos profesionales, contratar personas, hacer crowdsourcing, etc.
 
 World of Webcraft.
